@@ -62,10 +62,6 @@
       "repo": "github:mark1russell7/splay-react#main",
       "path": "splay-react"
     },
-    "@mark1russell7/minimongo": {
-      "repo": "github:mark1russell7/MiniMongo#main",
-      "path": "MiniMongo"
-    },
     "@mark1russell7/client-fs": {
       "repo": "github:mark1russell7/client-fs#main",
       "path": "client-fs"
