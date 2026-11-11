@@ -62,10 +62,6 @@
       "repo": "github:mark1russell7/splay-react#main",
       "path": "splay-react"
     },
-    "@mark1russell7/data-layer": {
-      "repo": "github:mark1russell7/data-layer#main",
-      "path": "data-layer"
-    },
     "@mark1russell7/client-fs": {
       "repo": "github:mark1russell7/client-fs#main",
       "path": "client-fs"
